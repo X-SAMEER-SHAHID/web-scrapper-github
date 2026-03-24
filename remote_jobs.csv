@@ -1,0 +1,627 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-5d231a24c0ef0ae8,indeed,https://www.indeed.com/viewjob?jk=5d231a24c0ef0ae8,http://www.indeed.com/job/infor-crm-saleslogix-developer-5d231a24c0ef0ae8,Infor CRM / Saleslogix Developer,College Point NY Company,"Berwick, PA, US",2025-09-29,fulltime,direct_data,yearly,60000.0,100000.0,USD,False,,,,,"**Job Title:** Infor CRM / Saleslogix Developer
+
+**Company Overview:**  
+AFC Industries PA, Inc., a manufacturing company located in Berwick, PA, is seeking an experienced Infor CRM / Saleslogix Developer to join our team. As a recognized leader in the design and manufacture of ergonomic interactive technical furniture, we proudly serve clients in Healthcare, Public Safety/Mission Control, Financial, Corporate, and Government sectors. We are looking for a skilled developer who can enhance and maximize the value of our Infor CRM / Saleslogix systems while contributing to the success of our dynamic team.
+
+**Position Summary:**  
+The Infor CRM / Saleslogix Developer will design, develop, and support custom solutions within the Infor CRM/Saleslogix environment. This role requires CRM expertise, full\-stack development skills, and the ability to integrate external applications to deliver scalable solutions that enhance customer relationship management.
+
+**Key Responsibilities:**
+
+* Develop, configure, and customize Infor CRM / Saleslogix applications to meet business requirements.
+* Build C\#/.NET customizations, plugins, and integrations using the Infor CRM SDK.
+* Customize the Web Client UI (JavaScript/HTML/CSS) to adjust forms, layouts, and web screens.
+* Integrate external applications with Saleslogix using REST APIs (SData / OData**)**; handle JSON, HTTP, and related technologies in C\#, Python, Java, Node.js, etc.
+* Design and implement workflows, dashboards, reports, and integrations with other systems.
+* Maintain and troubleshoot existing CRM solutions to ensure optimal performance.
+* Collaborate with project managers, and end\-users to gather requirements and translate them into technical solutions.
+* Perform testing, quality assurance, and documentation of CRM customizations and upgrades.
+
+**Required Qualifications:**
+
+* Proven experience with Infor CRM / Saleslogix development and administration.
+* Strong C\#/.NET development skills for customizing Saleslogix.
+* Experience with front\-end web development (JavaScript, HTML, CSS) for CRM UI customizations.
+* Knowledge of REST API integrations (SData / OData) and working with JSON/HTTP protocols.
+* Strong understanding of CRM architecture, data models, and workflows.
+* Excellent problem\-solving, communication, and teamwork skills.
+
+**Preferred Qualifications:**
+
+* Experience integrating Infor CRM with ERP, marketing automation, or other enterprise systems.
+* Familiarity with multiple programming languages for REST API integrations.
+* Knowledge of CRM best practices and user adoption strategies.
+
+Job Type: Full\-time
+
+Pay: $60,000\.00 \- $100,000\.00 per year
+
+Benefits:
+
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Education:
+
+* Bachelor's (Preferred)
+
+Experience:
+
+* IT support: 5 years (Required)
+
+Ability to Commute:
+
+* Berwick, PA 18603 (Required)
+
+Ability to Relocate:
+
+* Berwick, PA 18603: Relocate before starting work (Required)
+
+Work Location: In person",,https://www.indeed.com/cmp/College-Point-Ny-Company,,,,,,,,,,,,
+in-6bb9130c9e798e18,indeed,https://www.indeed.com/viewjob?jk=6bb9130c9e798e18,http://www.indeed.com/job/volunteer-web-developer-6bb9130c9e798e18,VOLUNTEER Web developer,Dog Shelter & Rescue Unification Network,"Remote, US",2025-09-29,parttime,,,,,,True,,,,,"**Job Summary**
+
+**This is a VOLUNTEER position. We are a young charity and all volunteer force. This role is best for programmers seeking to build their portfolio or are can afford a volunteer role.**  
+We are seeking a skilled and innovative Web Developer to join our dynamic team. The ideal candidate will have a strong background in both front\-end and back\-end development, with experience in various programming languages and frameworks. You will be responsible for designing, developing, and maintaining web applications that provide an exceptional user experience while ensuring optimal performance and functionality.
+
+**Responsibilities**
+
+* Develop and maintain web applications using modern technologies such as HTML, CSS, JavaScript, and frameworks like Angular, React, or Vue.js.
+* Collaborate with UX/UI designers to create responsive web designs that enhance user experience.
+* Implement RESTful APIs and web services for seamless integration with back\-end systems.
+* Utilize database management systems such as MySQL, PostgreSQL, or MongoDB for data storage and retrieval.
+* Work with version control systems like Git and platforms such as GitHub or Bitbucket to manage code changes effectively.
+* Participate in Agile development processes, including sprint planning and daily stand\-ups using tools like Jira or Trello.
+* Conduct unit testing and debugging to ensure the quality of the codebase.
+* Optimize applications for maximum speed and scalability while ensuring cross\-platform compatibility.
+* Stay updated with emerging technologies and industry trends to continuously improve skills and knowledge.
+
+**Qualifications**
+
+* Proficiency in front\-end development languages: HTML, CSS, JavaScript (including frameworks like Angular or React).
+* Experience with back\-end technologies: Node.js, Python (Django), Ruby on Rails, PHP (Laravel), or .NET (ASP.NET).
+* Familiarity with containerization tools such as Docker and CI/CD practices using Jenkins or similar platforms.
+* Knowledge of database systems including MySQL, PostgreSQL, Microsoft SQL Server, SQLite, or MongoDB.
+* Understanding of system architecture principles and application development methodologies (SDLC).
+* Experience with data visualization techniques and tools for presenting information effectively.
+* Strong problem\-solving skills with an emphasis on OOP principles.
+* Ability to work collaboratively in a team environment while also being self\-motivated.
+* Familiarity with DevOps practices is a plus. Join us in creating innovative web solutions that drive success for our clients. If you are passionate about technology and eager to contribute to our mission of saving the lives of shelter pets, we encourage you to apply.
+
+Job Type: Part\-time
+
+Pay: From $1\.00 per hour
+
+Work Location: Remote",,https://www.indeed.com/cmp/Dog-Shelter-&-Rescue-Unification-Network,,,,,,,,,,,,
+in-4dda39c65e221d6a,indeed,https://www.indeed.com/viewjob?jk=4dda39c65e221d6a,https://jobs.ashbyhq.com/confluent/d4e98fa3-8a14-4ee5-aec8-2aaeb9738a64?utm_source=04jLNO7LD5,Senior Solutions Engineer,Confluent,US,2025-09-28,fulltime,direct_data,yearly,151900.0,178500.0,USD,True,,,,,"We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real\-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.
+
+
+It takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.
+
+
+One Confluent. One Team. One Data Streaming Platform.
+
+**About the Role:**
+-------------------
+
+
+Solutions Engineers at Confluent drive not only the early\-stage evaluation within the **sales** process, but also play a crucial role in enabling ongoing value\-realization for customers, all while helping them move up the adoption maturity curve. In this role you’ll partner with Account Executives to be the key technical advisor in service of the customers. You’ll be instrumental in surfacing the customers’ stated or implicit Business Needs, and coming up with Technical Designs to best meet these needs. You may find yourself at times facilitating art of the possible discussions and storytelling to inspire customers in adopting new patterns with confidence, and at other times driving creative solutioning to help get past difficult technical roadblocks. Overall, we look upon Solutions Engineers to be a key cog within the Customer Success Team that help foster an environment of sustained success for the customer and incremental adoption of Confluent’s Technology.
+
+**What You Will Do:**
+---------------------
+
+* Help advance new \& innovative Data Streaming use\-cases from conception to Go\-Live
+* Execute on and lead Technical Proofs of Concept
+* Conduct Discovery \& Whiteboard Sessions to develop new use\-cases
+* Provide Thought Leadership by delivering Technical Talks and Workshops
+* Guide customers with hands\-on help and best practice to drive operational maturity of their Confluent Deployment
+* Analyze Customer Consumption trends and identify Optimization opportunities
+* Work closely with Product and Engineering teams, and serve as a key Product advocate across the Customer, Partner and Industry ecosystem
+* Forge strong relationships with key customer stakeholders and serve as a dependable partner for them
+
+**What You Will Bring:**
+------------------------
+
+* 5\+ years of Solutions Engineering or similar work experience
+* Experience with Event\-Driven architecture, Data Integration \& Processing Techniques, Database \& Data Warehouse technologies
+* First\-Hand exposure to Cloud Architecture, Migrations, Deployment \& Application Development
+* Experience with Automation, GitOps and Kubernetes
+* Proficiency in Java, Python or SQL
+* Technical certifications \- Cloud Developer/Architect, Data Engineering \& Integration
+* Clear, consistent demonstration of self\-starter behavior, a desire to learn new things and tackle hard technical problems
+* Exceptional presentation and communications capabilities.
+* Confidence presenting to a highly skilled and experienced audience, ranging from developers to enterprise architects and up to C\-level executives
+
+**Ready to build what's next? Let’s get in motion.**
+----------------------------------------------------
+
+**Come As You Are**
+===================
+
+
+Belonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.
+
+
+We’re proud to be an equal opportunity workplace. Employment decisions are based on job\-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.
+
+
+Compensation Range: $151\.9K \- $178\.5K",,https://www.indeed.com/cmp/Confluent-7,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/58f138096fb563cf67c9011d41f8cee9,https://www.confluent.io,"Mountain View, CA","1,001 to 5,000",$500M to $1B (USD),"Set Your Data in Motion. Your business is in motion. Now, you have a data platform for it. Confluent makes it easy to connect your apps, data systems, and entire organization with real-time data flows",,,,,,
+in-9cde1c47d7ec9e01,indeed,https://www.indeed.com/viewjob?jk=9cde1c47d7ec9e01,https://careers.smbcgroup.com/smbc/job/Charlotte-Technical-Business-Analyst-NC-28202/1303525100/?feedId=392100&utm_source=Indeed&utm_campaign=SMBC_Indeed,Technical Business Analyst,Sumitomo Group,"Charlotte, NC, US",2025-09-28,fulltime,direct_data,yearly,144000.0,180000.0,USD,True,,,,accommodations@smbcgroup.com,"SMBC Group is a top\-tier global financial group. Headquartered in Tokyo and with a 400\-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG’s shares trade on the Tokyo, Nagoya, and New York (NYSE: SMFG) stock exchanges.
+
+  
+
+In the Americas, SMBC Group has a presence in the US, Canada, Mexico, Brazil, Chile, Colombia, and Peru. Backed by the capital strength of SMBC Group and the value of its relationships in Asia, the Group offers a range of commercial and investment banking services to its corporate, institutional, and municipal clients. It connects a diverse client base to local markets and the organization’s extensive global network. The Group’s operating companies in the Americas include Sumitomo Mitsui Banking Corp. (SMBC), SMBC Nikko Securities America, Inc., SMBC Capital Markets, Inc., SMBC MANUBANK, JRI America, Inc., SMBC Leasing and Finance, Inc., Banco Sumitomo Mitsui Brasileiro S.A., and Sumitomo Mitsui Finance and Leasing Co., Ltd.
+
+  
+
+The anticipated salary range for this role is between $144,000\.00 and $180,000\.00\. The specific salary offered to an applicant will be based on their individual qualifications, experiences, and an analysis of the current compensation paid in their geography and the market for similar roles at the time of hire. The role may also be eligible for an annual discretionary incentive award. In addition to cash compensation, SMBC offers a competitive portfolio of benefits to its employees.
+
+**Role Description**
+--------------------
+
+
+A new centralized End User Computing (EUC) Governance Program within SMBC – Americas Division (AD) has been created as a partnership between Technology (AD Tech) \& Risk Management (RMDAD) departments to establish a governance and management framework for EUC tools across business functions and using the 3 lines of defense model for internal control. The EUC Governance Program develops EUC guidelines and standards as well as establishes technology guidance, a control framework and monitoring mechanisms for SMBC AD’s EUC tools and processes. The First Line of Defense (1LOD) EUC Governance Program partners with business functions to provide support in the compliance with established RMDAD policies, procedures and standards as well as drives initiatives to support consistent EUC tool control management practices and processes to minimize errors and issues. The 1LOD EUC Governance Program also ensures businesses functions align with other relevant company policies and standards, such as Data and Privacy, and manages the approach to measuring adherence to those guidelines.
+
+
+The {Associate, VP} of EUC Governance is an experienced role not only supporting end\-to\-end management and oversight of EUC Governance Program activities for SMBC AD but also the tools / platforms employed to automate and evidence the governance workflow. The primary focus of this role is to coordinate with business functions in the implementation of new governance requirements, including discovery of EUC tools operating in the environment, risk \& control assessments of identified EUC tools, facilitation of solution transition to IT process as appropriate, consult on the design \& execution of controls for EUC tools, support and/or performance of EUC tool testing where needed and tracking of action plans to address any noted gaps or deficiencies. Additionally, the {Associate, VP} should have at least peripheral knowledge of key banking \& financial services business uses in\-scope of the program, such as financial, management \& board reporting, compliance, front\-office transaction processing and/or capital \& treasury management.
+
+**Role Objectives**
+-------------------
+
+* The {Associate, VP} of EUC Governance will be responsible for management and monitoring of EUC tools based on adherence to EUC policy, standards, and best practices.
+* This is a cross\-functional role that will work with teams across first line of defense business sectors and the second and third lines of defense functions (i.e. Finance, Risk, Internal Audit, Compliance, Legal).
+* Manage activities related to EUC tools and support team on testing to ensure adherence to EUC policy. Work with team members to enforce the SMBC AD’s policies with focus on EUC controls.
+* Assist in response to audit related inquiries in relation to EUC tools.
+* Conduct independent spot check reviews on targeted key business use areas. Communicate and track findings as required. Coordinate remediation efforts with the various stakeholders.
+* Collaborate with EUC owners / developers on training, communications, process optimization, policy oversight, strategy, and reporting teams to identify areas of improvement and provide input to developing comprehensive training, EUC tooling development and process improvement for the EUC Program.
+* Working with EUC Owners, EUC Developers, and other stakeholders to comply with EUC standards and the deployment and operation of an EUC Governance tool.
+* Assisting business partners with EUC reference inquiries, various EUC projects and other ad\-hoc tasks as needed.
+* Create Data Quality checks and governance routines for EUC management.
+* Applies in\-depth disciplinary knowledge, contributing to the development of new techniques and the improvement of processes and workflow for the area or function.
+* Integrates subject matter and industry expertise within a defined area.
+* Evaluates moderately complex and variable issues with substantial potential impact, where development of an approach/taking of an action involves weighing various alternatives and balancing potentially conflicting situations using multiple sources of information.
+**Qualifications and Skills**
+-----------------------------
+
+* Bachelor’s degree or equivalent experience (Preferably in a Finance, MIS, Business or related discipline).
+* 3\-5 years of business experience in finance, audit, risk, compliance, or regulatory management in banking / financial services. Specific knowledge of business processes in\-scope for EUC governance is a plus: (Reporting – Financial, Regulatory, Risk, Executive Management, Board; Front\-Office Operations, Compliance, Capital / Treasury Management, Tax).
+* Proficient in Microsoft Office software (Outlook, Word, Excel, PowerPoint, Visio).
+* Proficient in various programming languages and tools used by business to develop EUC solutions (Python, R, Excel Power Apps, VBA, SQL, BI – Power BI / Tableau, Alteryx).
+* Strong process mapping skills required; ability to gather and analyze data, organize findings, build presentations
+* Ability to effectively communicate ideas, project status, and recommendations.
+* Adept at queries, report writing and presenting findings to all levels of business partners.
+* Strong planning and coordination skills for implementing brand new cross\-functional processes and activities.
+* Assertive and self\-confident to challenge status quo and propose diverse ideas within existing processes and business practices.
+* Pragmatic problem\-solver, forward thinker with knowledge of broader financial business models and operating risks.
+* Strong relationship management skills with ability to deepen relationships and build partnerships across key support areas like Finance, Audit, Compliance, Data Office, other Technology Partners, Risk, and Legal.
+* Manage and own escalations through to resolution including root cause analysis, identify fix and preventative measures.
+* Effective analytical skills and proactive approach to problem\-solving with limited supervision
+* Experience in operations and technology controls and monitoring preferred.
+* Ability to manage competing priorities and aggressive deadlines while remaining focused on critical detail.
+* Self\-motivated, positive, creative, innovative thinker, customer\-oriented, resourceful, flexible
+* Highly organized multi\-tasker with the ability to prioritize and manage time strategically
+**Additional Requirements**
+---------------------------
+
+
+SMBC’s employees participate in a Hybrid workforce model that provides employees with an opportunity to work from home, as well as, from an SMBC office. SMBC requires that employees live within a reasonable commuting distance of their office location. Prospective candidates will learn more about their specific hybrid work schedule during their interview process. Hybrid work may not be permitted for certain roles, including, for example, certain FINRA\-registered roles for which in\-office attendance for the entire workweek is required.
+
+  
+
+SMBC provides reasonable accommodations during candidacy for applicants with disabilities consistent with applicable federal, state, and local law. If you need a reasonable accommodation during the application process, please let us know at accommodations@smbcgroup.com.",,https://www.indeed.com/cmp/Sumitomo-Group-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/659294da72f49bdfb1f4d28b74d74f3e,https://www.sumitomo.gr.jp/english/,,,,,,,,,,
+in-5cbe5f4df911faf8,indeed,https://www.indeed.com/viewjob?jk=5cbe5f4df911faf8,https://careers.smbcgroup.com/smbc/job/Charlotte-Technical-Business-Analyst-NC-28202/1303526400/?feedId=392100&utm_source=Indeed&utm_campaign=SMBC_Indeed,Technical Business Analyst,Sumitomo Group,"Charlotte, NC, US",2025-09-28,fulltime,direct_data,yearly,144000.0,180000.0,USD,True,,,,accommodations@smbcgroup.com,"SMBC Group is a top\-tier global financial group. Headquartered in Tokyo and with a 400\-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG’s shares trade on the Tokyo, Nagoya, and New York (NYSE: SMFG) stock exchanges.
+
+  
+
+In the Americas, SMBC Group has a presence in the US, Canada, Mexico, Brazil, Chile, Colombia, and Peru. Backed by the capital strength of SMBC Group and the value of its relationships in Asia, the Group offers a range of commercial and investment banking services to its corporate, institutional, and municipal clients. It connects a diverse client base to local markets and the organization’s extensive global network. The Group’s operating companies in the Americas include Sumitomo Mitsui Banking Corp. (SMBC), SMBC Nikko Securities America, Inc., SMBC Capital Markets, Inc., SMBC MANUBANK, JRI America, Inc., SMBC Leasing and Finance, Inc., Banco Sumitomo Mitsui Brasileiro S.A., and Sumitomo Mitsui Finance and Leasing Co., Ltd.
+
+  
+
+The anticipated salary range for this role is between $144,000\.00 and $180,000\.00\. The specific salary offered to an applicant will be based on their individual qualifications, experiences, and an analysis of the current compensation paid in their geography and the market for similar roles at the time of hire. The role may also be eligible for an annual discretionary incentive award. In addition to cash compensation, SMBC offers a competitive portfolio of benefits to its employees.
+
+**Role Description**
+--------------------
+
+
+A new centralized End User Computing (EUC) Governance Program within SMBC – Americas Division (AD) has been created as a partnership between Technology (AD Tech) \& Risk Management (RMDAD) departments to establish a governance and management framework for EUC tools across business functions and using the 3 lines of defense model for internal control. The EUC Governance Program develops EUC guidelines and standards as well as establishes technology guidance, a control framework and monitoring mechanisms for SMBC AD’s EUC tools and processes. The First Line of Defense (1LOD) EUC Governance Program partners with business functions to provide support in the compliance with established RMDAD policies, procedures and standards as well as drives initiatives to support consistent EUC tool control management practices and processes to minimize errors and issues. The 1LOD EUC Governance Program also ensures businesses functions align with other relevant company policies and standards, such as Data and Privacy, and manages the approach to measuring adherence to those guidelines.
+
+
+The {Associate, VP} of EUC Governance is an experienced role not only supporting end\-to\-end management and oversight of EUC Governance Program activities for SMBC AD but also the tools / platforms employed to automate and evidence the governance workflow. The primary focus of this role is to coordinate with business functions in the implementation of new governance requirements, including discovery of EUC tools operating in the environment, risk \& control assessments of identified EUC tools, facilitation of solution transition to IT process as appropriate, consult on the design \& execution of controls for EUC tools, support and/or performance of EUC tool testing where needed and tracking of action plans to address any noted gaps or deficiencies. Additionally, the {Associate, VP} should have at least peripheral knowledge of key banking \& financial services business uses in\-scope of the program, such as financial, management \& board reporting, compliance, front\-office transaction processing and/or capital \& treasury management.
+
+**Role Objectives**
+-------------------
+
+* The {Associate, VP} of EUC Governance will be responsible for management and monitoring of EUC tools based on adherence to EUC policy, standards, and best practices.
+* This is a cross\-functional role that will work with teams across first line of defense business sectors and the second and third lines of defense functions (i.e. Finance, Risk, Internal Audit, Compliance, Legal).
+* Manage activities related to EUC tools and support team on testing to ensure adherence to EUC policy. Work with team members to enforce the SMBC AD’s policies with focus on EUC controls.
+* Assist in response to audit related inquiries in relation to EUC tools.
+* Conduct independent spot check reviews on targeted key business use areas. Communicate and track findings as required. Coordinate remediation efforts with the various stakeholders.
+* Collaborate with EUC owners / developers on training, communications, process optimization, policy oversight, strategy, and reporting teams to identify areas of improvement and provide input to developing comprehensive training, EUC tooling development and process improvement for the EUC Program.
+* Working with EUC Owners, EUC Developers, and other stakeholders to comply with EUC standards and the deployment and operation of an EUC Governance tool.
+* Assisting business partners with EUC reference inquiries, various EUC projects and other ad\-hoc tasks as needed.
+* Create Data Quality checks and governance routines for EUC management.
+* Applies in\-depth disciplinary knowledge, contributing to the development of new techniques and the improvement of processes and workflow for the area or function.
+* Integrates subject matter and industry expertise within a defined area.
+* Evaluates moderately complex and variable issues with substantial potential impact, where development of an approach/taking of an action involves weighing various alternatives and balancing potentially conflicting situations using multiple sources of information.
+**Qualifications and Skills**
+-----------------------------
+
+* Bachelor’s degree or equivalent experience (Preferably in a Finance, MIS, Business or related discipline).
+* 3\-5 years of business experience in finance, audit, risk, compliance, or regulatory management in banking / financial services. Specific knowledge of business processes in\-scope for EUC governance is a plus: (Reporting – Financial, Regulatory, Risk, Executive Management, Board; Front\-Office Operations, Compliance, Capital / Treasury Management, Tax).
+* Proficient in Microsoft Office software (Outlook, Word, Excel, PowerPoint, Visio).
+* Proficient in various programming languages and tools used by business to develop EUC solutions (Python, R, Excel Power Apps, VBA, SQL, BI – Power BI / Tableau, Alteryx).
+* Strong process mapping skills required; ability to gather and analyze data, organize findings, build presentations
+* Ability to effectively communicate ideas, project status, and recommendations.
+* Adept at queries, report writing and presenting findings to all levels of business partners.
+* Strong planning and coordination skills for implementing brand new cross\-functional processes and activities.
+* Assertive and self\-confident to challenge status quo and propose diverse ideas within existing processes and business practices.
+* Pragmatic problem\-solver, forward thinker with knowledge of broader financial business models and operating risks.
+* Strong relationship management skills with ability to deepen relationships and build partnerships across key support areas like Finance, Audit, Compliance, Data Office, other Technology Partners, Risk, and Legal.
+* Manage and own escalations through to resolution including root cause analysis, identify fix and preventative measures.
+* Effective analytical skills and proactive approach to problem\-solving with limited supervision
+* Experience in operations and technology controls and monitoring preferred.
+* Ability to manage competing priorities and aggressive deadlines while remaining focused on critical detail.
+* Self\-motivated, positive, creative, innovative thinker, customer\-oriented, resourceful, flexible
+* Highly organized multi\-tasker with the ability to prioritize and manage time strategically
+**Additional Requirements**
+---------------------------
+
+
+SMBC’s employees participate in a Hybrid workforce model that provides employees with an opportunity to work from home, as well as, from an SMBC office. SMBC requires that employees live within a reasonable commuting distance of their office location. Prospective candidates will learn more about their specific hybrid work schedule during their interview process. Hybrid work may not be permitted for certain roles, including, for example, certain FINRA\-registered roles for which in\-office attendance for the entire workweek is required.
+
+  
+
+SMBC provides reasonable accommodations during candidacy for applicants with disabilities consistent with applicable federal, state, and local law. If you need a reasonable accommodation during the application process, please let us know at accommodations@smbcgroup.com.",,https://www.indeed.com/cmp/Sumitomo-Group-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/659294da72f49bdfb1f4d28b74d74f3e,https://www.sumitomo.gr.jp/english/,,,,,,,,,,
+in-0b4ab2fdd235fc4f,indeed,https://www.indeed.com/viewjob?jk=0b4ab2fdd235fc4f,https://jobs.ashbyhq.com/yeet/6df45324-ef1e-468f-a848-fa42cf144ec0?utm_source=Dewaoew1JN,GTM Engineer,Yeet,"Chicago, IL, US",2025-09-28,fulltime,,,,,,False,,,,,"**About yeet**
+==============
+
+
+yeet is built by a tight\-knit group of systems, observability, and kernel nerds who refuse to accept “mystery outages” as normal. We’re a small, high\-impact team with domain expertise in Linux, eBPF, performance instrumentation, and developer tooling.
+
+
+We move fast, ship often, and take deep ownership. If you enjoy operating close to the metal, building tools that real engineers lean on during 3 AM incident sprints, and solving hard problems with minimal overhead, you’ll feel right at home here.
+
+**About the role**
+==================
+
+
+We’re looking for a **GTM Engineer** to design and build the systems that drive adoption of yeet.
+
+
+You’ll sit at the intersection of growth and engineering, using code to hack GTM and turn ideas into measurable impact — wiring up the data flows and feedback loops that get developers into the product and keep them there.
+
+
+This **isn’t** a *“throw up some landing pages”* role but rather it’s about building the backend and frontend glue that powers signup flows, activation loops, referral mechanics, usage tracking, billing experiments, and integrations with the tools devs already use.
+
+
+You’ll partner closely with product, marketing, and sales, but your deliverables look like code: pipelines, dashboards, scripts, APIs, and experiments that make the GTM funnel hum.
+
+**About you**
+=============
+
+* You’re a **builder** who’s as comfortable shipping production code as you are sketching out growth experiments.
+* You understand **developer tools, SaaS funnels, and the messy edge cases** that come with signup, auth, billing, and usage tracking.
+* **You think in systems**: you can design pipelines and feedback loops that tie product usage back to GTM strategy.
+* You’re pragmatic and **know when to duct\-tape an MVP together** to test a hypothesis, and when to harden something for scale.
+* You love using **code to hack growth** — whether that’s automating workflows, instrumenting analytics, or wiring up clever integrations that surprise and delight developers.
+
+### **Nice To Haves**
+
+* Experience with **analytics / growth tooling** like PostHog, Amplitude, Segment, or Mixpanel.
+* Familiarity with **billing \& monetization systems** (Stripe, usage\-based billing, subscription management).
+* Comfort working across **frontend and backend** — e.g., Next.js, React, Node, or Python micro\-services.
+* Hands\-on experience with **data pipelines** (Kafka, BigQuery, DuckDB).
+* Prior work building **developer\-facing signup and onboarding flows**.
+* Knowledge of **experimentation frameworks** (A/B testing, feature flagging).
+* Exposure to **PLG (product\-led growth)** tactics: Activation loops, referrals, self\-serve funnels.
+* Bonus points if you’ve worked on **developer ecosystem integrations** (GitHub, Discord, Slack, Docker, Tailscale).",,https://www.indeed.com/cmp/Yeet,,,,,,,,,,,,
+in-ab4e8f3e212f0c1e,indeed,https://www.indeed.com/viewjob?jk=ab4e8f3e212f0c1e,https://recruiting.southernglazers.com/job/Miramar-Staff-QASupply-Chain-Test-Engineer-Blue-Yonder-FL-33027/1303569200/?feedId=364800&utm_source=Indeed&utm_campaign=SWS_Indeed,Staff QA/Supply Chain Test Engineer-Blue Yonder,Southern Glazer’s Wine & Spirits,"Miramar, FL, US",2025-09-28,,,,,,,False,,,,,"**What You Need To Know**
+-------------------------
+
+
+Shape a remarkable future with us. Build a career working for an industry leader that truly invests in their people – and equips them with leading technology, continuous learning, and the ability to bring their best selves to work. As the premier wine and spirits distributor, Southern Glazer’s isn't just one of Forbes’ Top Private Companies; it's a family\-owned business with deep roots dating back to 1933\.
+
+  
+
+The reputation of Southern Glazer’s is well\-established, and it's no surprise that we are regularly recognized for our culture. Southern Glazer’s has been recognized by Newsweek as one of America’s Greatest Workplaces for Inclusion and Diversity, as well as for Women and Parents and Families. These accolades speak volumes about our commitment to creating a supportive and inclusive culture of belonging for all employees.
+
+  
+
+As a full\-time employee, you can choose from a wide\-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax\-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan. We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more.
+
+
+By joining Southern Glazer’s, you would be part of a team that values excellence, innovation, and community. This is more than just a job – it's an opportunity to build the future of beverage distribution and grow with a company that truly cares about its people.
+
+**Overview**
+------------
+
+
+Be at the forefront of innovation and excellence as a Staff QA Engineer Supply \& Demand Planning, where you'll drive impactful solutions using Blue Yonder (BY) Demand/ Fulfillment/ Optimize Orders modules. Join a dynamic team where you'll play a pivotal role in revolutionizing supply and demand planning. From monitoring ticketing systems to providing cutting\-edge BY solutions, your expertise will shape the future of supply chain planning. Get ready to dive into the heart of technological advancement and lead the charge towards optimized efficiency and client satisfaction.
+
+
+The Staff Quality Assurance Engineer job is responsible for the overall quality of systems and technology that are released into ETP’s production environment. The scope of this role includes the comprehensive aspects of quality including testing documentation, planning and execution of testing, testing validation, and obtaining approval using both manual processes and automated tools that are available in the SGWS environment.
+
+  
+
+In their role, Quality Assurance is responsible for ensuring the product meets business requirements and overall business objectives by tracking and reporting quality assurance metrics such as defects, defect counts, test results and test status, as well as documenting problems and communicating the issue to development staff to assist in their resolution. This role is ultimately responsible for quality checks on all changes around supply and demand planning solutions.
+
+**Primary Responsibilities**
+----------------------------
+
+* Lead the testing teams and efforts on all changes within the supply and demand planning solution either via agile or waterfall projects
+* Provide day\-to\-day production support for Supply and Demand solutions using Blue Yonder Damand and Fulfilment modules.
+* Monitor ticketing system and ensuring timely resolution.
+* Ability to manage multiple projects simultaneously.
+* Serve as a team leader with large\-scale platform testing (Blue Yonder, SAP, etc.)
+* Lead the implementation, build\-out, or expansion of automated testing tools
+* Coordinate and schedule testing programs with project and program teams
+* Reporting testing outcomes to project stakeholders
+* Coordinating the work of 3rd party Quality Assurance teams
+* Perform quality and testing audits across the various IT functions to ensure quality and testing standards, procedures, and methodologies are being followed properly and consistently
+* Identify, recommend, and implement process improvement opportunities for SGWS quality assurance programs
+* Review 3rd party testing programs to ensure quality and compliance standards with SGWS practices
+* Understand various programming languages (SQL, Python, etc.) and deployment tools such as Toad, Visual Studio,
+* SQL Developer, as well as DevOps and CI/CD practices
+* Identify test data requirements and work with other teams as needed to create and maintain test data
+* Execute tests, both manual and automated, including documentation of test results and defects, and assist in defect troubleshooting and resolution
+* Assist in the implementation and maintenance of software testing tools
+* Create, run, and maintain reports to measure and track testing metrics
+* Update problem tickets to keep users informed of ticket resolution progress.
+* Collaborate with SCM business and other technical/functional team members to provide production support to clients.
+* Participate in client requirements gathering sessions as required.
+* Offer best practice solutions to meet user needs.
+* Contribute to the preparation of test cases and execution of testing cycles with business stakeholders.
+* Lead tracking and monitoring of production support issues, enhancement deadlines, and escalations pertaining to supply and demand planning solutions.
+* Update status to appropriate leadership.
+* Utilize Tosca automation tool and HP ALM.
+* Experience with S/4 Hana is desirable.
+**Minimum Qualifications**
+--------------------------
+
+* 5\+ years of working experience in Testing and solution design, development, implementation \& support of Blue Yonder Demand, Fulfillment, Optimize Orders, Dynamic deployment, and Reporting module.
+* Knowledge of Supply and demand planning functionality: demand/sales forecasting, order management, load building, Inventory Management, and supply chain reporting and analytics.
+* 1\+ years experience with Tosca or equivalent QA Automation tool
+* Blue Yonder experience is a huge plus
+* Must have at least 3 full life cycle experiences in supply and demand planning design, implementation, global template, and production support environment.
+* Implementation level understanding of planning systems such as Blue Yonder, custom code, and enhancements.
+* SQL programming knowledge is preferred.
+* Proficiency and IT knowledge across multiple platforms.
+* Strong problem\-solving and analytical skills.
+* Strong understanding of interfaces with supply chain planning and ERP applications, including SAP, and Manhattan WMS.
+* Demonstrated knowledge of Blue Yonder integration with SAP/S4 modules.
+* Able to understand business requirements, custom reports, interfaces, conversions, enhancements, forms, and workflow (RICEFW) objects
+* Blue Yonder upgrade experience is a plus
+* Experience with ServiceNow is a plus
+**Physical Demands**
+--------------------
+
+* Physical demands with activity or condition for a considerable amount of time may include sitting and typing/keyboarding using a computer (e.g., keyboard, mouse, and monitor) or mobile device
+* Physical demands with activity or condition may include walking, bending, reaching, standing, squatting, and stooping
+* May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs
+**EEO Statement**
+-----------------
+
+
+Southern Glazer's Wine and Spirits, an Affirmative Action/EEO employer, prohibits discrimination and harassment of any type and provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. SGWS complies with all federal, state and local laws concerning consideration of a qualified applicant's arrest and/or criminal conviction records. Southern Glazer's Wine and Spirits provides competitive compensation based on estimated performance level consistent with the past relevant experience, knowledge, skills, abilities and education of employees. Unless otherwise expressly stated, any pay ranges posted here are estimates from outside of Southern Glazer's Wine and Spirits and do not reflect Southern Glazer's pay bands or ranges.",,https://www.indeed.com/cmp/Southern-Glazer-S-Wine-&-Spirits-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/927b25c1c94b7936aa9b94e012d260b9,http://southernglazers.com/careers,"Miami, FL","10,000+",more than $10B (USD),"Southern Glazer’s Wine & Spirits is the world’s pre-eminent distributor of beverage alcohol, and proud to be a multi-generational, family-owned company. Join our team today!",,,,,,
+in-ab62ebe4dc6ef40c,indeed,https://www.indeed.com/viewjob?jk=ab62ebe4dc6ef40c,https://www.saltwaterinc.com/job-openings/software-application-developer-programming-surveyor/,Software Application Developer / Programming Surveyor,Saltwater,"AK, US",2025-09-28,parttime,direct_data,hourly,40.0,55.0,USD,True,,,,,"We are currently recruiting for a part\-time **Software Application Developer / Programming Surveyor** to assist the Northeast Fisheries’ Science Center’s (NEFSC) Ecosystems Survey Branch (ESB).
+
+
+
+This will be a **part\-time** position with 376 hours expected, annually. Work will be performed on\-site at a Northeast Fisheries Science Center, as well as aboard research vessels in the Northwest Atlantic Ocean, or remotely in coordination with the COR and Project Lead. The contract has a one\-year base period and will have up to three (3\) 12\-month option periods.
+
+
+**Duties:**
+
+
+* Maintaining and enhancing software applications that are used for recording fisheries data, such as the NEFSC FSCS system.
+* Developing new software applications and/or modules for entering fisheries data into Oracle structures, or for accessing and viewing stored data.
+* Developing or enhancing software applications for QA/QC during and after the data collection process.
+* May require dockside/harbor side work.
+
+Saltwater Inc. is proud to be an equal opportunity employer and does not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. We strive to create an inclusive workplace culture to attract the best talent and allow each member of our team to achieve their full potential and maximum productivity.
+#### **Minimum Qualifications:**
+
+
+* Minimum of a bachelor’s degree and experience directly related to the task requirements.
+* Experience with PHP and web application development
+* Experience with Android app development for tablets and smart phones.
+* Working knowledge of JAVA program development
+* Demonstrated proficiency with Oracle, PL/SQL, and relational database development.
+* Experience in supporting application development through integrated project work group meetings, data modeling, code reviews, and system review for quality and performance.
+* Work experience that includes 1\) involvement in all aspects of the software development cycle and 2\) demonstrated ability to learn both data collection processes as well as new and existing technologies.
+* Familiarity with Jira agile program management tools
+* Ability to work as part of a team to define and refine user requirements.
+* Ability to understand, implement, and integrate security standards set by the NOAA/NMFS/ Office of the Chief Information Officer (OCIO) and implemented by NEFSC’s Data Management Systems Division.
+* Current MS Office and Google Workspace skills
+* PHP, PL/SQL, R, C\#, Python, ArcGIS, and/or other programming languages
+* Oracle database systems
+* Hold a valid state drives license with the ability to operate a Federal motor vehicle.
+
+#### **Compensation:**
+
+
+Salary range is $40 – $55 per hour, dependent upon experience.
+
+
+#### **EOE Statement:**
+
+
+Saltwater Inc. is proud to be an equal opportunity employer and a VEVRAA Federal Contractor and does not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, or disability status. We strive to create an inclusive workplace culture to attract the best talent and allow each member of our team to achieve their full potential and maximum productivity. Furthermore, Saltwater Inc. highly encourages qualified individuals with disabilities and protected veterans to apply for positions for which they are qualified and to notify us if there are any needs for accommodation throughout the application process and/or upon hire.
+
+
+#### **How to Apply:**
+
+
+Only qualified applicants with the requisite experience need to apply. **We will honor all requests for application confidentiality.** Apply online through the link below.",,https://www.indeed.com/cmp/Saltwater,,https://www.saltwaterinc.com,Anchorage,51 to 200,$5M to $25M (USD),,,,,,,
+in-040a938f151ca34c,indeed,https://www.indeed.com/viewjob?jk=040a938f151ca34c,https://click.appcast.io/t/6b6xO4hQlwxwqwU1mphHvnY9jtbF1AWCYZ51qvspOFw=,Senior Staff Engineer - Java (Remote),GEICO,"Chevy Chase, MD, US",2025-08-30,fulltime,direct_data,yearly,100000.0,260000.0,USD,True,,,,,"**At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.**
+
+**Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.**
+
+**When you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.**
+
+
+GEICO is seeking an experienced Engineer with a passion for building high\-performance, low maintenance, zero\-downtime platforms, and applications. You will help drive our insurance business transformation as we transition from a traditional IT model to a tech organization with engineering excellence as its mission, while co\-creating the culture of psychological safety and continuous improvement.
+
+
+Our Senior Staff Engineer works with our Staff and Sr. Engineers to innovate and build new systems, improve and enhance existing systems and identify new opportunities to apply your knowledge to solve critical problems. You will lead the strategy and execution of a technical roadmap that will increase the velocity of delivering products and unlock new engineering capabilities. The ideal candidate has deep technical expertise in their domain.
+
+
+### **Position Responsibilities**
+
+
+As a Senior Staff Engineer, you will:
+
+* Focus on multiple areas and provide technical and thought leadership to the enterprise
+* Collaborate with product managers, team members, customers, and other engineering teams to solve our toughest problems
+* Develop and execute technical software development strategy for a variety of domains
+* Accountable for the quality, usability, and performance of the solutions
+* Utilize programming languages like Java, Python, or other object\-oriented languages, SQL, and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of Azure tools and services
+* Be a role model and mentor, helping to coach and strengthen the technical expertise and know\-how of our engineering and product community. Influence and educate executives
+* Consistently share best practices and improve processes within and across teams
+* Analyze cost and forecast, incorporating them into business plans
+* Determine and support resource requirements, evaluate operational processes, measure outcomes to ensure desired results, and demonstrate adaptability and sponsoring continuous learning
+
+### **Qualifications**
+
+* Exemplary ability to design, perform experiments, and influence engineering direction and product roadmap
+* Experience partnering with engineering teams and transferring research to production
+* Track\-record of publications history in credible conferences and journals
+* Experience with continuous delivery and infrastructure as code
+* In\-depth knowledge of CS data structures and algorithms
+* Experience solving analytical problems with quantitative approaches
+* Ability to excel in a fast\-paced, startup\-like environment
+* Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real\-time communication)
+* Fluency and Specialization with at least two modern languages such as Java, Python, or C\# including object\-oriented design
+* Experience with Micro\-services oriented architecture and extensible REST or GraphQL APIs
+* Experience building the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems
+* Fluency in DevOps Concepts, Cloud Architecture, and Azure DevOps Operational Framework
+* Experience in existing Operational Portals such as Azure Portal
+* Experience with application monitoring tools and performance assessments
+* In depth knowledge of Datacenter structure, capabilities and offerings, including the Azure platform, and its native services including the Azure platform and its native services
+* Experience in security protocols and products: Understanding of Active Directory, Windows Authentication, SAML, OAuth
+
+### **Experience**
+
+* 10\+ years of professional software development experience within a Java framework (J2EE, web containers and Java)
+* 8\+ years of experience with architecture and design
+* 6\+ years of experience in open\-source frameworks
+* 4\+ years of experience with Azure, AWS, or hybrid cloud strategies
+* 3\+ years of experience designing modern web applications (React, etc) is a plus
+* 3\+ years of experience deploying AI/ML models (Tensor, PyTorch, etc) is also a plus
+
+### **Education**
+
+* Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience
+
+ **Annual Salary**
+
+
+$100,000\.00 \- $260,000\.00
+The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+
+  
+
+
+GEICO will consider sponsoring a new qualified applicant for employment authorization for this position. **The GEICO Pledge:**
+
+**Great Company:** At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.
+
+
+We’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.
+
+**Great Careers:** We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.
+
+**Great Culture:** We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi\-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.
+
+
+As part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.
+
+**Great Rewards:** We offer compensation and benefits built to enhance your physical well\-being, mental and emotional health and financial future.
+
+* Comprehensive Total Rewards program that offers personalized coverage tailor\-made for you and your family’s overall well\-being.
+* Financial benefits including market\-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition\-based incentives; and tuition assistance.
+* Access to additional benefits like mental healthcare as well as fertility and adoption assistance.
+* Supports flexibility\- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.
+
+
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+
+
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",,https://www.indeed.com/cmp/Geico,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7a86bde190236505b3534d00b623a481,https://www.geico.com/careers/,,"10,000+",Decline to state,"At GEICO, the opportunities to grow your talents go beyond what you imagined at an insurance company. Let's get started on your journey. ",,,,,,
+in-8769121e91208da2,indeed,https://www.indeed.com/viewjob?jk=8769121e91208da2,https://www.amazon.jobs/jobs/2983941/principal-solutions-architect-aviation-project-kuiper-mobility-team?cmpid=DA_INAD200785B,"Principal Solutions Architect Aviation, Project Kuiper Mobility Team",Amazon.com,"MD, US",2025-05-06,fulltime,direct_data,yearly,164500.0,284300.0,USD,False,,,,,"**DESCRIPTION**
+---------------
+
+
+Project Kuiper is looking for experienced and creative leaders to drive adoption of Kuiper broadband solutions in aviation  
+
+  
+
+Key job responsibilities  
+
+* Be the voice of the customer to influence the roadmap of new features and service capabilities.
+* Incubate and launch new solutions to enable customer use cases.
+* Understand the technical requirements of our customers and work closely with the product management and engineering teams to guide the direction of our product offerings and evolution.
+* Be creative to help solve technical and commercial blockers and develop new product offerings.
+* Earn trust with customers with transparency and subject matter expertise
+* Support strategic business development and contribute to pricing and deal negotiation
+* Focus on complex deals and develop long\-term strategic partnerships.
+* Create and capture best practices, technical content and new reference architectures (e.g. white papers, code samples, blog posts)
+
+  
+
+About the team  
+
+This role is in the Kuiper B2B Business Development team which is responsible for fostering the adoption of Kuiper services in enterprise, mobility, and telco segments.  
+
+  
+
+Our team puts a high value on work\-life balance. We believe striking the right balance between your personal and professional life is critical to life\-long happiness and fulfillment.
+  
+
+  
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship.**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science, engineering, mathematics or equivalent
+* Experience communicating across technical and non\-technical audiences and at C\-level, including training, workshops, publications
+* 10\+ years of experience in the field of In\-Flight Connectivity targeting commercial and/or business aviation
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of presentations and whiteboarding skills with a high degree of comfort speaking with internal and external executives, IT management, and developers
+* Experience with programming languages like Python, JavaScript, Go, .Net, Java or equivalent
+* Should have had experience in taking aviation connectivity products and services from concept to in\-service
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\-we\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $164,500/year in our lowest geographic market up to $284,300/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.,,,,,,
+li-4306779282,linkedin,https://www.linkedin.com/jobs/view/4306779282,,Python Developer,Tailored Management,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/tailored-management,,,,,,,,,,,,
+li-4305769000,linkedin,https://www.linkedin.com/jobs/view/4305769000,,Python Developer,Forbes Technical Consulting,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/forbes-technical-consulting,,,,,,,,,,,,
+li-4305766943,linkedin,https://www.linkedin.com/jobs/view/4305766943,,Python Developer,Apptad,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/apptad,,,,,,,,,,,,
+li-4305445323,linkedin,https://www.linkedin.com/jobs/view/4305445323,,Python Developer,Ascendion,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/ascendion,,,,,,,,,,,,
+li-4305785290,linkedin,https://www.linkedin.com/jobs/view/4305785290,,Python Developer,BayOne Solutions,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/bayone-solutions,,,,,,,,,,,,
+li-4304297571,linkedin,https://www.linkedin.com/jobs/view/4304297571,,Python Developer,BuzzClan,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/buzzclan-llc,,,,,,,,,,,,
+li-4306711926,linkedin,https://www.linkedin.com/jobs/view/4306711926,,Python Developer,Emerald Resource Group,,2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/emerald-resource-group,,,,,,,,,,,,
+li-4305792355,linkedin,https://www.linkedin.com/jobs/view/4305792355,,Python Backend Engineer,OSI Engineering,"Cupertino, CA",2025-09-26,,,,,,,False,,,,,,,https://www.linkedin.com/company/osi-engineering-inc.,,,,,,,,,,,,
+li-4305442474,linkedin,https://www.linkedin.com/jobs/view/4305442474,,Remote Fullstack React/Python Developer,Lensa,"New York, NY",2025-09-26,,,,,,,True,,,,,,,https://www.linkedin.com/company/lensa,,,,,,,,,,,,
+li-4307874382,linkedin,https://www.linkedin.com/jobs/view/4307874382,,Full-Stack Software Engineer (New graduates: United States),Wanderlog,,,,,,,,,False,,,,,,,https://www.linkedin.com/company/wanderlog,,,,,,,,,,,,
